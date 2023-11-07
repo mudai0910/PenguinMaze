@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  CameraController.cpp
+  Game.cpp
+  Main.cpp
+  Clear.cpp
+  Title.cpp
+C:\Users\god\Siv3DProjects\GameJam\Game.cpp(317,35): warning C4100: 'color': unreferenced formal parameter
+C:\Users\god\Siv3DProjects\GameJam\Game.cpp(325,44): warning C4458: declaration of 'gridNum' hides class member
+C:\Users\god\Siv3DProjects\GameJam\Game.hpp(21,12): message : see declaration of 'Game::gridNum' (compiling source file Game.cpp)
+C:\Users\god\Siv3DProjects\GameJam\Game.cpp(329,15): warning C4458: declaration of 'BoardColor' hides class member
+C:\Users\god\Siv3DProjects\GameJam\Game.hpp(45,15): message : see declaration of 'Game::BoardColor' (compiling source file Game.cpp)
+C:\Users\god\Siv3DProjects\GameJam\Game.cpp(330,15): warning C4458: declaration of 'LineColor' hides class member
+C:\Users\god\Siv3DProjects\GameJam\Game.hpp(47,15): message : see declaration of 'Game::LineColor' (compiling source file Game.cpp)
+C:\Users\god\Siv3DProjects\GameJam\Game.cpp(371,50): warning C4458: declaration of 'gridNum' hides class member
+C:\Users\god\Siv3DProjects\GameJam\Game.hpp(21,12): message : see declaration of 'Game::gridNum' (compiling source file Game.cpp)
+C:\Users\god\Siv3DProjects\GameJam\Game.cpp(382,51): warning C4458: declaration of 'gridNum' hides class member
+C:\Users\god\Siv3DProjects\GameJam\Game.hpp(21,12): message : see declaration of 'Game::gridNum' (compiling source file Game.cpp)
+     Creating library C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Release\GameJam.lib and object C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Release\GameJam.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1270 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameJam.vcxproj -> C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Release\GameJam.exe
+  C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Release\GameJam.exe
+  1 個のファイルをコピーしました
