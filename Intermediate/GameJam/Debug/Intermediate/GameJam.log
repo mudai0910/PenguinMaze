@@ -1,6 +1,16 @@
-﻿  Clear.cpp
+﻿  Game.cpp
   Main.cpp
-     Creating library C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Debug\GameJam(debug).lib and object C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Debug\GameJam(debug).exp
-  GameJam.vcxproj -> C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Debug\GameJam(debug).exe
-  C:\Users\god\Siv3DProjects\GameJam\Intermediate\GameJam\Debug\GameJam(debug).exe
+C:\Users\ganba\GitHub\PenguinMaze\Game.cpp(317,35): warning C4100: 'color': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\ganba\GitHub\PenguinMaze\Game.cpp(325,44): warning C4458: 'gridNum' を宣言すると、クラス メンバーが隠蔽されます
+C:\Users\ganba\GitHub\PenguinMaze\Game.hpp(21,12): message : 'Game::gridNum' の宣言を確認してください (ソース ファイルをコンパイルしています Game.cpp)
+C:\Users\ganba\GitHub\PenguinMaze\Game.cpp(329,15): warning C4458: 'BoardColor' を宣言すると、クラス メンバーが隠蔽されます
+C:\Users\ganba\GitHub\PenguinMaze\Game.hpp(45,15): message : 'Game::BoardColor' の宣言を確認してください (ソース ファイルをコンパイルしています Game.cpp)
+C:\Users\ganba\GitHub\PenguinMaze\Game.cpp(330,15): warning C4458: 'LineColor' を宣言すると、クラス メンバーが隠蔽されます
+C:\Users\ganba\GitHub\PenguinMaze\Game.hpp(47,15): message : 'Game::LineColor' の宣言を確認してください (ソース ファイルをコンパイルしています Game.cpp)
+C:\Users\ganba\GitHub\PenguinMaze\Game.cpp(371,50): warning C4458: 'gridNum' を宣言すると、クラス メンバーが隠蔽されます
+C:\Users\ganba\GitHub\PenguinMaze\Game.hpp(21,12): message : 'Game::gridNum' の宣言を確認してください (ソース ファイルをコンパイルしています Game.cpp)
+C:\Users\ganba\GitHub\PenguinMaze\Game.cpp(382,51): warning C4458: 'gridNum' を宣言すると、クラス メンバーが隠蔽されます
+C:\Users\ganba\GitHub\PenguinMaze\Game.hpp(21,12): message : 'Game::gridNum' の宣言を確認してください (ソース ファイルをコンパイルしています Game.cpp)
+  GameJam.vcxproj -> C:\Users\ganba\GitHub\PenguinMaze\Intermediate\GameJam\Debug\GameJam(debug).exe
+  C:\Users\ganba\GitHub\PenguinMaze\Intermediate\GameJam\Debug\GameJam(debug).exe
   1 個のファイルをコピーしました
