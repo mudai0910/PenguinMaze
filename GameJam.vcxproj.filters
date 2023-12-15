@@ -156,6 +156,9 @@
     <ClCompile Include="CameraController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MazeGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="App\icon.ico">
@@ -802,6 +805,9 @@
     </ClInclude>
     <ClInclude Include="CameraController.hpp">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MazeGenerator.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
